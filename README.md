@@ -3,8 +3,10 @@ This is Consumer Complaints data from the Consumer Financial Protection Bureau i
 This data is from 2017 to 2023.
 
 
-**TOOL:** EXCEL
-Consumers file any dissatisfaction from product & services they receive from their Banks.
+**TOOL USED** EXCEL
+
+
+Consumers can file any dissatisfaction from product & services they receive from their Banks.
 **The Objectives for analysing this data is**:
 1.To establish if there consumer compliants show in pattern in relation to time
 2.To establish which products present the most complaints and the most common issues in products
